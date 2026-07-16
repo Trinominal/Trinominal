@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trinominal
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning to build an llm from scratch
 - 💞️ I’m looking to collaborate on AI applications
 - 📫 How to reach me http://discordapp.com/users/UserID/vincent6980
 
